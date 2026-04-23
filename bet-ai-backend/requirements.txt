@@ -1,5 +1,2 @@
 fastapi
 uvicorn
-requests
-sqlite3
-pandas
